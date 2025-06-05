@@ -58,4 +58,4 @@ plt.show()
 
 
 ### RESULT:
-        Thus, the python code for implementing the auto correlation function is executed successfully.
+ Thus, the python code for implementing the auto correlation function is executed successfully.
